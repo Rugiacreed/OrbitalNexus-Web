@@ -1,6 +1,6 @@
 # Mi Web
 
-Este es un proyecto de ejemplo de una página web simple hecha con HTML, CSS y JavaScript.
+Este es un proyecto de una página web simple hecha con HTML y CSS.
 
 ## Descripción
 
